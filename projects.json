@@ -10,5 +10,11 @@
       "live": "https://obscure-fortress-74365.herokuapp.com/games",
       "git": "https://github.com/tjphillips08/Video-game-news",
       "image": "https://i.imgur.com/ZF7zE0l.png"
+    },
+    {
+      "name": "AnimeDB",
+      "live": "https://anime-db.netlify.app/",
+      "git": "https://github.com/saybeeali/animedb-front-end",
+      "image": "https://i.imgur.com/E7DOkrU.png"
     }
   ]
