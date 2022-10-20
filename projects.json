@@ -16,5 +16,11 @@
       "live": "https://anime-db.netlify.app/",
       "git": "https://github.com/saybeeali/animedb-front-end",
       "image": "https://i.imgur.com/E7DOkrU.png"
+    },
+    {
+      "name": "DadHub",
+      "live": "https://dadhub.herokuapp.com/",
+      "git": "https://github.com/ekelly55/DadHub",
+      "image": "https://i.imgur.com/mpkZ74g.png"
     }
   ]
